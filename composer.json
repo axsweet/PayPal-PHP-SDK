@@ -14,8 +14,7 @@
     "require": {
         "php": "*",
         "ext-curl": "*",
-        "ext-json": "*",
-        "psr/log": "*"
+        "ext-json": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "*"
